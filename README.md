@@ -45,9 +45,6 @@
 - Twitter/Instagram clone (Web, Desktop, Mobile)
 - Dentist's office management application
 - Music streaming application
-<br />
-<br />
-
 
 ---
 
