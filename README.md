@@ -1,6 +1,6 @@
 # Hi, I'm Błażej
 
-## I'm a high school student. List of mostly thing i do: 
+## I'm a high school student. List of things I mainly do:
 
 - Scripts in Python
 - Desktop apps
