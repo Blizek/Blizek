@@ -1,6 +1,6 @@
 # Hi, I'm Błażej
 
-## I'm a high school student. List of things I mainly do:
+## I'm a Computer Science student at AGH University of Krakow. List of things I mainly do:
 
 - Scripts in Python
 - RESTful API
