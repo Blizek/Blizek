@@ -21,6 +21,3 @@
 - Dentist's office management application
 - Music streaming application
 
----
-
-<br />
