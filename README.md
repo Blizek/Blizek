@@ -15,7 +15,6 @@
 
 ### My actual projects:
 
-- Food ordering app with Spring boot server, RESTful API and MySQL database
 - Multiplayer Blackjack game
 - Twitter/Instagram clone (Web, Desktop, Mobile)
 - Dentist's office management application
